@@ -1,5 +1,6 @@
-## Put comments here that give an overall description of what your
-## functions do
+## Implementation of functions makeCacheMatrix() and cacheSolve() which
+## together compute an inverse of the matrix and cache it, so, that the matrix inverse
+## can be re-used.
 
 ## The makeCacheMatrix is a special matrix which caches its inverse
 ## till the matrix is updated.
